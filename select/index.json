@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春なのかもね。",
+  "base_artist": "すいそうぐらし",
+  "createdAt": "2026-02-21T05:46:53.215839Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春なのかもね。",
+      "artist": "すいそうぐらし",
+      "has_synced": false,
+      "path": "select/pl_01_春なのかもね。_すいそうぐらし.txt"
+    }
+  ]
+}
